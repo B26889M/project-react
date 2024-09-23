@@ -10,7 +10,7 @@ function App() {
     {/* Navbar */}
     <Navbar />
 
-    {/* Content */}
+    {/* Content 1 */}
     <Homepage />
 
     {/* Footer */}
